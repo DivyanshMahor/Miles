@@ -1,0 +1,23 @@
+<resources>
+    <color name="warm_background">#FFF5E1</color> <!-- Soft beige -->
+    <color name="soft_pink">#FFC1CC</color> <!-- Cute pink -->
+    <color name="deep_brown">#5D4037</color> <!-- Warm brown for text -->
+    <color name="peach">#FFAB91</color> <!-- Peach tone -->
+    <color name="lightGray">#FFAB91</color>
+    <color name="primaryColor">#FF8A65</color> <!-- Warm Orange -->
+    <color name="secondaryColor">#64B5F6</color> <!-- Soft Blue -->
+    <color name="dark_purple">#6A1B9A</color> <!-- Deep purple accent -->
+    <color name="white">#FFFFFF</color>
+    <color name="yellow">#EDD70D</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="teal_700">#018786</color>
+    <color name="black">#000000</color>
+    <color name="gray">#757575</color>
+    <color name="neon_blue">#00E5FF</color>
+    <color name="teal_200">#03DAC5</color>
+    <color name="cyan">#00FFFF</color>
+    <color name="priColor">#6200EA</color> <!-- Purple (Change if needed) -->
+    <color name="secColor">#03DAC5</color> <!-- Teal (Change if needed) -->
+
+    <color name="backgroundColor">#F5F5F5</color> <!-- Light Gray -->
+</resources>

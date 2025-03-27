@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base Theme -->
+    <style name="Base.Theme.Miles" parent="Theme.Material3.DayNight">
+        <!-- Background and Primary Colors -->
+        <item name="android:windowBackground">@color/warm_background</item>
+        <item name="colorPrimary">@color/soft_pink</item>
+        <item name="colorOnPrimary">@color/deep_brown</item>
+        <item name="colorSecondary">@color/peach</item>
+        <item name="colorOnSecondary">@color/dark_purple</item>
+    </style>
+
+    <style name="Theme.Miles" parent="Base.Theme.Miles" />
+</resources>

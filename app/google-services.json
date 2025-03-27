@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "885932208939",
+    "project_id": "miles-44f67",
+    "storage_bucket": "miles-44f67.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885932208939:android:c9bd1c74b66fc193af4b6e",
+        "android_client_info": {
+          "package_name": "com.example.miles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885932208939-a0uo2d7ui86ak654m376mpif6n4l8hp2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miles",
+            "certificate_hash": "f727e578dc0a95b500ca0ab4395500c081ef3064"
+          }
+        },
+        {
+          "client_id": "885932208939-9a45d7q6ld3k556bc09dre82lpt1f6cf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAErG62hFLjBMfZ33bTYHk70xF3Ar-OMww"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885932208939-9a45d7q6ld3k556bc09dre82lpt1f6cf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
